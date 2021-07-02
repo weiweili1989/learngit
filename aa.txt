@@ -1,12 +1,3 @@
 Git is a distributed version control system
 
 Git is free software
-
-main
-
-Is this Ok?
-
-main 2
-
-Who knows
-
